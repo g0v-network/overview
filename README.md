@@ -3,7 +3,7 @@
 # Overview
 [![Slack badge](http://join.g0v.today/badge.svg)](http://join.g0v.today)
 
-## Get Involved
+## :muscle: Get Involved
 
 If you'd like to join in on the conversation, great!
 
@@ -25,6 +25,10 @@ If you'd like to join in on the conversation, great!
 5. [Join us][video-calls] for a video call stand-up meeting, daily at 11am
    ET.
 
+## :copyright: License
+
+[CC0 1.0 Universal][license]
+
 <!-- Links -->
    [civicist]: https://civichall.org/civicist/vtaiwan-democracy-frontier/
    [contributing]: CONTRIBUTING.md
@@ -38,3 +42,4 @@ If you'd like to join in on the conversation, great!
    [slack-vnyc]: https://g0v-tw.slackarchive.io/vnyc/
    [slack-vnyc-grants-conf]: https://g0v-tw.slackarchive.io/vnyc-grants-conf/
    [slack-vnyc-articles]: https://g0v-tw.slackarchive.io/vnyc-articles/
+   [license]: https://creativecommons.org/publicdomain/zero/1.0/
