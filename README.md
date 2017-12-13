@@ -3,6 +3,19 @@
 # Overview
 [![Slack badge](http://join.g0v.today/badge.svg)](http://join.g0v.today)
 
+We are a translocal community of citizens from across North America,
+that is aspiring to reimagine struggling public consultation processes
+in our local governments. We believe the existing processes no longer
+build reliable and strong consensus. We aspire to grow a network of
+citizen faclitators who will use existing wisdom and an evolving set of
+new tools to build better consensus in our communities.
+
+We are calling these **Resilient Conversations**.
+
+We take great inspiration from similar efforts abroad, most notably the
+[vTaiwan process][about-vtaiwan] architected by Taiwan's [g0v
+community][about-g0v].
+
 ## :muscle: Get Involved
 
 If you'd like to join in on the conversation, great!
@@ -35,6 +48,7 @@ If you'd like to join in on the conversation, great!
    [conduct]: CONDUCT.md
    [join-g0v]: http://join.g0v.today/
    [about-g0v]: http://g0v.asia/
+   [about-vtaiwan]: https://apolitical.co/solution_article/taiwan-using-social-media-crowdsource-legislation/
    [video-calls]: https://appear.in/vnyc
    [kanban]: https://trello.com/b/ZzxRte37/g0vnetwork-task-tracker
    [github]: https://github.com/g0v-network
